@@ -1,0 +1,2 @@
+# InventoryManagementSystem
+Individual project.
