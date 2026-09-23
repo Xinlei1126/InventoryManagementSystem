@@ -170,9 +170,13 @@ namespace InventoryManagementSystem
 
             product.DisplayProductInfo();
 
+            Console.ForegroundColor = ConsoleColor.Yellow;
+
             Console.Write(
                 "\nAre you sure you want to delete this product? (Y/N): "
             );
+
+            Console.ResetColor();
 
             string choice =
                 (Console.ReadLine() ?? "")
