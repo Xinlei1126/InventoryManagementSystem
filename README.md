@@ -1,9 +1,5 @@
 # InventoryManagementSystem
 
-Individual project.
-
-# Inventory Management System
-
 A C# .NET console application for managing product inventory and storing inventory data between program runs.
 
 The application lets users add, update, delete, and view products through an interactive terminal menu. Product data is saved automatically to a JSON file, and users can generate a formatted inventory report showing quantities, prices, and the total inventory value.
