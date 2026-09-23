@@ -1,0 +1,20 @@
+[
+  {
+    "ID": 1,
+    "Name": "iPhone 13",
+    "Quantity": 324,
+    "Price": 9879
+  },
+  {
+    "ID": 2,
+    "Name": "iPad mini",
+    "Quantity": 345,
+    "Price": 8768
+  },
+  {
+    "ID": 4,
+    "Name": "AirPods 4",
+    "Quantity": 67,
+    "Price": 1988
+  }
+]
