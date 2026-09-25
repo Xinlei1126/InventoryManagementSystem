@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\18810\\source\\repos\\Xinlei1126\\InventoryManagementSystem\\InventoryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5957FE53-0750-CA6C-54A2-88EDAA0B85B8}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\18810\\source\\repos\\xinlei1126\\inventorymanagementsystem\\inventorymanagementsystem\\inventorymanagementsystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5957FE53-0750-CA6C-54A2-88EDAA0B85B8}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5957FE53-0750-CA6C-54A2-88EDAA0B85B8}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\18810\\source\\repos\\xinlei1126\\inventorymanagementsystem\\inventorymanagementsystem\\inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5957FE53-0750-CA6C-54A2-88EDAA0B85B8}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5957FE53-0750-CA6C-54A2-88EDAA0B85B8}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\18810\\source\\repos\\xinlei1126\\inventorymanagementsystem\\inventorymanagementsystem\\inventorymanagementsystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5957FE53-0750-CA6C-54A2-88EDAA0B85B8}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5957FE53-0750-CA6C-54A2-88EDAA0B85B8}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\18810\\source\\repos\\xinlei1126\\inventorymanagementsystem\\inventorymanagementsystem\\inventorymanagementsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,32 +40,33 @@
               "RelativeDocumentMoniker": "InventoryManagementSystem\\Product.cs",
               "ToolTip": "C:\\Users\\18810\\source\\repos\\Xinlei1126\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem\\Product.cs",
               "RelativeToolTip": "InventoryManagementSystem\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T19:08:37.716Z"
+              "WhenOpened": "2026-09-23T19:08:37.716Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Inventory.cs",
               "DocumentMoniker": "C:\\Users\\18810\\source\\repos\\Xinlei1126\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem\\Inventory.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\Inventory.cs",
               "ToolTip": "C:\\Users\\18810\\source\\repos\\Xinlei1126\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem\\Inventory.cs",
               "RelativeToolTip": "InventoryManagementSystem\\Inventory.cs",
-              "ViewState": "AgIAAPQAAAAAAAAAAADwv8kAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYDAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T19:07:47.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\18810\\source\\repos\\Xinlei1126\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\Program.cs",
               "ToolTip": "C:\\Users\\18810\\source\\repos\\Xinlei1126\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
               "RelativeToolTip": "InventoryManagementSystem\\Program.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAAwGgAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T19:06:13.113Z",
               "EditorCaption": ""
